@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/goit-react-hw-08-phonebook/static/js/main.33e51265.chunk.js",
+    "main.js.map": "/goit-react-hw-08-phonebook/static/js/main.33e51265.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-08-phonebook/static/js/runtime-main.17a62bf4.js",
+    "runtime-main.js.map": "/goit-react-hw-08-phonebook/static/js/runtime-main.17a62bf4.js.map",
+    "static/css/2.bc922b9c.chunk.css": "/goit-react-hw-08-phonebook/static/css/2.bc922b9c.chunk.css",
+    "static/js/2.1d4987e1.chunk.js": "/goit-react-hw-08-phonebook/static/js/2.1d4987e1.chunk.js",
+    "static/js/2.1d4987e1.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/2.1d4987e1.chunk.js.map",
+    "static/css/3.591b1679.chunk.css": "/goit-react-hw-08-phonebook/static/css/3.591b1679.chunk.css",
+    "static/js/3.69212820.chunk.js": "/goit-react-hw-08-phonebook/static/js/3.69212820.chunk.js",
+    "static/js/3.69212820.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/3.69212820.chunk.js.map",
+    "static/js/4.cc3434a9.chunk.js": "/goit-react-hw-08-phonebook/static/js/4.cc3434a9.chunk.js",
+    "static/js/4.cc3434a9.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/4.cc3434a9.chunk.js.map",
+    "static/js/5.2bf48537.chunk.js": "/goit-react-hw-08-phonebook/static/js/5.2bf48537.chunk.js",
+    "static/js/5.2bf48537.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/5.2bf48537.chunk.js.map",
+    "static/js/6.086a5492.chunk.js": "/goit-react-hw-08-phonebook/static/js/6.086a5492.chunk.js",
+    "static/js/6.086a5492.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/6.086a5492.chunk.js.map",
+    "index.html": "/goit-react-hw-08-phonebook/index.html",
+    "static/css/2.bc922b9c.chunk.css.map": "/goit-react-hw-08-phonebook/static/css/2.bc922b9c.chunk.css.map",
+    "static/css/3.591b1679.chunk.css.map": "/goit-react-hw-08-phonebook/static/css/3.591b1679.chunk.css.map",
+    "static/js/2.1d4987e1.chunk.js.LICENSE.txt": "/goit-react-hw-08-phonebook/static/js/2.1d4987e1.chunk.js.LICENSE.txt",
+    "static/media/girl-avatar.6e96ceb4.png": "/goit-react-hw-08-phonebook/static/media/girl-avatar.6e96ceb4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17a62bf4.js",
+    "static/css/2.bc922b9c.chunk.css",
+    "static/js/2.1d4987e1.chunk.js",
+    "static/js/main.33e51265.chunk.js"
+  ]
+}
